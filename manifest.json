@@ -1,0 +1,16 @@
+{
+  "name": "SparkLab — Interactive Electronics Learning",
+  "short_name": "SparkLab",
+  "description": "Your complete interactive guide to Arduino and electronics. Learn by clicking, earn XP, and track your progress.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a111a",
+  "theme_color": "#0099cc",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
